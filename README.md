@@ -2806,5 +2806,3 @@ CREATE TRIGGER on_auth_user_created
 ```sql
 REVOKE EXECUTE ON FUNCTION public.handle_new_user() FROM PUBLIC, anon, authenticated;
 ```
-
-Das ZIP von vorhin (`momentum-mastered.zip`) enthält all das bereits als fertige Dateien inkl. der 40 shadcn-Komponenten — falls copy-paste doch zu mühsam wird für 89 Dateien.
