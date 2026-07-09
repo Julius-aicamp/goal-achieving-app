@@ -1,6 +1,4 @@
 # goal-achieving-app
-Klar — hier der komplette Custom-Code als reiner Text zum Copy-Paste (ohne ZIP, ohne Vorschau-Widget). Die ~40 Standard-shadcn/ui-Dateien (button.tsx, card.tsx, input.tsx, etc.) lass ich weg, die kommen 1:1 aus `npx shadcn add ...` (Befehl weiter oben) — copy-paste macht bei reinem Boilerplate keinen Sinn. Alles Projekt-Spezifische ist hier:
-
 ## Config
 
 **package.json**
